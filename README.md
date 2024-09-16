@@ -89,7 +89,7 @@ Start installation
 - sqlmap
 - ssdeep
 - sslscan
-- thc-pptp-br
+- thc-pptp-bruter
 - theharveste
 - truecrack
 - valgrind
